@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: peachpuff;
+    color: #150101;
+}
+p{
+    font-size: 3rem;
+}
+.js{
+    color: black;
+}
+.typed-text{
+    color: #FD5E53;
+}
+.cursor{
+    background: #051203;
+}
